@@ -1,0 +1,272 @@
+{"curso":"MF0493",
+"fecha_inicio" : "2023-10-19",
+"empresa" : "Merit",
+"lugar" : "Catalunya",
+"tipo" : "online",
+"tutor" : 
+    {"Nombre":"Alberto Mozo",
+        "email" : "albertomozodocente@gmail.com",
+        "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
+        "github" : "albertomozo",
+        "url" : "http://albertomozo.infinityfreeapp.com/"
+       
+    
+    },
+"alumnos" : [
+
+
+{
+    "Nombre":"Francisco",
+    "email" : "franciscovaldiviaclavijo@gmail.com",
+    "linked" : "",
+    "github" : "https://github.com/Kikovaldi",
+    "url" : "https://www.instagram.com/kikovaldi/",
+    "imagen" : "francisco.png",
+    "descripcion" : "Frases interactivas",
+    "inicio" : {
+        "html" : 1,
+        "css" : 1,
+        "JS" : 0,
+        "VUE" : 0,
+        "SQL" : 0,
+        "API" : 0,
+        "node.js" : 0,
+        "express" : 0
+    },
+    "fin" : {
+    "html" : 4,
+    "css" : 3,
+    "JS" : 3,
+    "VUE" : 2,
+    "SQL" : 3,
+    "API" : 4,
+    "node.js" : 2,
+    "express" : 2
+    
+    
+    }
+},
+{
+    "Nombre":"Daniel Garcia Rosell",
+    "email" : "tecnollagos@gmail.com",
+    "linked" : "",
+    "github" : "tecnollagos",
+    "url" : "",
+    "imagen" : "",
+    "descripcion" : "",
+    "inicio" : {
+    "html" : 5,
+    "css" : 5,
+    "JS" : 1,
+    "VUE" : 3,
+    "SQL" : 2,
+    "API" : 2,
+    "node.js" : 0,
+    "express" : 0
+    },
+    "fin" : {
+    "html" : 4,
+    "css" : 4,
+    "JS" : 0,
+    "VUE" : 0,
+    "SQL" : 2,
+    "API" : 0,
+    "node.js" : 0,
+    "express" : 0
+    
+    
+    }
+},
+{
+    "Nombre":"estel",
+    "email" : "Alumno8@gmail.com",
+    "linked" : "https://www.linkedin.com/in/estel-cunill-25809411a/",
+    "github" : "estelcm",
+    "url" : "",
+    "imagen" : "alumno1.png",
+    "descripcion" : "Descripción de vuestra web",
+    "inicio" : {
+    "html" : 3.5,
+    "css" : 2,
+    "JS" : 1.5,
+    "VUE" : 1.5,
+    "SQL" : 1,
+    "API" : 1.5,
+    "node.js" : 1.5,
+    "express" : 1
+    },
+    "fin" : {
+    "html" : 3.5 ,
+    "css" :2 ,
+    "JS" : 2,
+    "VUE" : 2,
+    "SQL" : 2,
+    "API" : 2,
+    "node.js" : 0,
+    "express" : 0
+    
+    
+    }
+    },
+    {
+    "Nombre":"Sílvia",
+    "email" : "silviamassana@gmail.com",
+    "linked" : "https://www.linkedin.com/in/silvia-massana",
+    "github" : "vionamas",
+    "url" : "https://www.silviamassana.com/",
+    "imagen" : "alumno1.png",
+    "descripcion" : "Web portfolio de diseño gráfico y fotografía",
+    "inicio" : {
+    "html" : 2,
+    "css" : 2,
+    "JS" : 1,
+    "VUE" : 0,
+    "SQL" : 0,
+    "API" : 0,
+    "node.js" : 0,
+    "express" : 0
+    },
+    "fin" : {
+    "html" : 4,
+    "css" : 4,
+    "JS" : 3,
+    "VUE" : 2,
+    "SQL" : 2,
+    "API" : 2,
+    "node.js" : 1,
+    "express" : 1
+    
+    
+    }
+},
+ {
+    "Nombre":"Ihor Smachylo",
+    "email" : "igoor.smachyloo@gmail.com",
+    "linked" : "https://www.linkedin.com/in/ihor-smachylo-23a44120b/",
+    "github" : "ihorSmachylo",
+    "url" : "http://infinityfreeapp.com/",
+    "imagen" : "alumno1.png",
+    "descripcion" : "Descripción de vuestra web",
+    "inicio" : {
+    "html" : 2,
+    "css" : 2,
+    "JS" : 1,
+    "VUE" : 1,
+    "SQL" : 1,
+    "API" : 1,
+    "node.js" : 1,
+    "express" : 1
+    },
+    "fin" : {
+    "html" : 1,
+    "css" : 1,
+    "JS" : 0,
+    "VUE" : 3,
+    "SQL" : 2,
+    "API" : 2,
+    "node.js" : 0,
+    "express" : 0
+    
+    
+    }
+    },
+    {
+        "Nombre":"Toni López",
+        "email" : "tonidevelopez@gmail.com",
+        "linked" : "https://www.linkedin.com/in/tonidevelopez/",
+        "github" : "tonidevelopez",
+        "url" : "",
+        "imagen" : "",
+        "descripcion" : "",
+        "inicio" : {
+        "html" :0 ,
+        "css" : 0,
+        "JS" : 0,
+        "VUE" : 0,
+        "SQL" : 0,
+        "API" : 0,
+        "node.js" : 0,
+        "express" : 0
+        },
+        "fin" : {
+        "html" : 3,
+        "css" : 3,
+        "JS" : 3,
+        "VUE" : 3,
+        "SQL" : 2,
+        "API" : 2,
+        "node.js" : 1,
+        "express" : 1
+        
+        
+        }
+    },
+        {
+        "Nombre":"Stephanie Céspedes",
+        "email" : "lindacespedesg@gmail.com",
+        "linked" : "https://www.linkedin.com/in/stephanie-c%C3%A9spedes-40473328b",
+        "github" : "tephyxp/",
+        "url" : "http://stephanie/infinityfreeapp.com/",
+        "imagen" : "Steph.jpg",
+        "descripcion" : "Descripción de vuestra web",
+        "inicio" : {
+        "html" : 3,
+        "css" : 1,
+        "JS" : 0,
+        "VUE" : 0,
+        "SQL" : 0,
+        "API" : 0,
+        "node.js" : 0,
+        "express" : 0
+        },
+        "fin" : 
+        {
+        "html" : 4,
+        "css" : 4,
+        "JS" : 3,
+        "VUE" : 3,
+        "SQL" : 0,
+        "API" : 3,
+        "node.js" : 2,
+        "express" : 2
+        
+        
+        }
+    },
+    {
+       
+    
+        "Nombre":"Raquel Rivas Castizo",
+        "email" : "raquelrivascas@gmail.com",        
+        "linked" : "https://www.linkedin.com/in/raquel-rivas-191133188",
+        "github" : "rarivka",
+        "url" :" ",
+        "imagen" : "",
+        "descripcion" : "es un proyecto",
+        "inicio" : {
+        "html" : 3,
+        "css" : 2,
+        "JS" : 0,
+        "VUE" : 0,
+        "SQL" : 3,
+        "API" : 1,
+        "node.js" : 0,
+        "express" : 0
+        },
+        "fin" : {
+        "html" : 3,
+        "css" : 2,
+        "JS" : 0,
+        "VUE" : 0,
+        "SQL" : 3,
+        "API" : 0,
+        "node.js" : 0,
+        "express" : 0
+        
+        
+        }
+    }
+
+   
+]
+}

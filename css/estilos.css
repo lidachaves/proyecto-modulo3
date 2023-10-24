@@ -1,0 +1,22 @@
+.container{
+    padding: 100px;
+    font-family: helvetica;
+}
+section {
+ border:2px solid blue;
+ margin : 10px;
+ display : flex;
+ flex-wrap: wrap;
+}
+
+section article {
+    width:50%;
+}
+
+.destacado {
+    color:red;
+}
+
+.imagengithub {
+    width :200px;
+}

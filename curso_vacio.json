@@ -1,6 +1,7 @@
 {"curso":"Modelo de curso",
-"fecha_inicio" : "2022-01-24",
-"tutor" : 
+"fecha inicio" : "2022-01-24",
+"fecha fin" : "2023-03-25",
+"tutor":
     {"Nombre":"Alberto Mozo",
         "email" : "albertomozodocente@gmail.com",
         "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",

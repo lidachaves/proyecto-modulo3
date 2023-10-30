@@ -27,10 +27,23 @@ fetch(valor)
     console.log("Clase: " + clase);
     console.log("Curso: " + clase.curso);
     console.log("Lugar: " + clase.lugar);
-    // datos curso a h1
-    //document.querySelector('h1').innerHTML=`${clase.curso} ${clase.fecha_inicio}`;
-    document.querySelector('#curso').innerHTML=`${clase.curso} ${clase.fecha_inicio} Localidad : ${clase.lugar}`;
-    //document.querySelector('#curso').innerHTML=clase.curso + ' '  + clase.fecha_inicio + ' Localidad : ' + clase.lugar ;
+    // datos curso a section
+    tcurso = '';
+    tcurso += `<h1>${clase.curso}</h1>`;
+    tcurso += '<table>';
+      for (let i in clase)   {
+       if ( typeof clase[i] !== "object"){
+               
+            tcurso += `<tr><td><b>${i} : </b></td><td>${clase[i]} </td></tr>`;
+        }
+      
+    }
+    tcurso += '</table>';
+
+    
+    
+    
+    document.querySelector('#curso').innerHTML=tcurso
 
     // datos profesor a #profesor
     document.querySelector('#profesor').innerHTML=`<h2>Tutor</h2> ${ficha_persona(clase.tutor)} ${ficha_github(clase.tutor)}`;

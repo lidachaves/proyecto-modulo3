@@ -1,8 +1,12 @@
-{"curso":"MF0493",
+{
+"id" : "20231019_MF0493",
+"curso":"MF0493",
 "fecha_inicio" : "2023-10-19",
-"empresa" : "Merit",
-"lugar" : "Catalunya",
-"tipo" : "online",
+"caracteriscas":{
+    "empresa" : "Merit",
+    "lugar" : "Catalunya",
+    "tipo" : "online"
+},
 "tutor" : 
     {"Nombre":"Alberto Mozo",
         "email" : "albertomozodocente@gmail.com",
@@ -265,37 +269,6 @@
         
         
         }
-    },
-    {
-        "Nombre":"lidia angelica chaves ozorio",
-        "email" : "lidanchaves@gmail.com",        
-        "linked" : "https://www.linkedin.com/",
-        "github" : "https://lidiachaves.github.com",
-        "url" : " ",
-        "imagen" : "",
-        "descripcion" : "es un proyecto",
-        "inicio" : {
-        "html" : 1,
-        "css" : 1,
-        "JS" : 1,
-        "VUE" : 1,
-        "SQL" : 1,
-        "API" : 1,
-        "node.js" : 1,
-        "express" : 1
-        },
-        "fin" : {
-        "html" : 4,
-        "css" : 4,
-        "JS" : 4,
-        "VUE" : 3,
-        "SQL" : 2,
-        "API" : 2,
-        "node.js" : 0,
-        "express" : 0
-        
-        
-       }
     }
 
    

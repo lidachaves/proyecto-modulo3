@@ -32,7 +32,7 @@ fetch(valor)
     tcurso += `<h1>${clase.curso}</h1>`;
     tcurso += '<table>';
       for (let i in clase)   {
-       if ( typeof clase[i] !== "object"){
+        if ( typeof clase[i] !== "object"){
                
             tcurso += `<tr><td><b>${i} : </b></td><td>${clase[i]} </td></tr>`;
         }

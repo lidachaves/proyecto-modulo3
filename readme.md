@@ -30,6 +30,7 @@ Conectar netlify - github
 he seguido estos pasos 
 
 he realizado un commit llamado lidia en github sale (no se si podra verlo)
+y el otro commit aparece como readme--
 
 y tambien me ha salido git push -u origin main
 Conectar netlify - github-----
